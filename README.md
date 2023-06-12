@@ -1,4 +1,4 @@
-![logo](https://github.com/Tanishq2003be/Tanishq2003be/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/Tanishq2003be/Tanishq2003be/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Tanishq Dublish</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
